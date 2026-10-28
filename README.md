@@ -12,9 +12,13 @@ Juan Fernandez Ordiales
 2º DAW Virtual — CIFP Avilés
 
 # Stack tecnológico:
+
   Lenguaje del backend: Node.js
+  
   Framework de interfaz: Next.js
+  
   Motor SQL: MySQL
+  
   Alojamiento Cloud: Railway
 
 # Tablero de trabajo
